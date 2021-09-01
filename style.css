@@ -1,0 +1,18 @@
+.allform{
+    text-align: center;
+    margin: auto;
+    margin-top: 200PX;
+}
+form{
+}
+input{
+    text-align: center;
+    width: 300PX;
+}
+a{
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    padding: 8px 12px;
+    border-radius: 5px;
+}
